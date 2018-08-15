@@ -27,7 +27,7 @@ System Fundamentals II Programming Assignments in C
 - Current working directory (pwd)
 - Pipeline, redirectional, and their combinations (|, <, >)
 
-## Homework 5 - C.R.E.A.M. Server
+## Homework 5 - Server
 - Multi-threaded server
 - Manages workers using an asynchronous queue 
 - Stores keys and values into a thread-safe hash-map
