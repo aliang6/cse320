@@ -1,7 +1,6 @@
 # CSE320
 System Fundamentals II Programming Assignments in C
-
-## Look in each homework's 'src' folder to see the main code.
+Look in each homework's 'src' folder to see the main code.
 
 ## Homework 1 - Polybius and Fractionated Morse Cipher
 - Polybius and Fractionated Morse Cipher
