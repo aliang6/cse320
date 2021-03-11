@@ -14,8 +14,8 @@ Look in each homework's 'src' folder to see the main code.
 - UTF-16 Big Endian to UTF-8
 - UTF-16 Big Endian to UTF-16 Little Endian
     
-## Homework 3 - Dynamic Memory Allocator using a Segregated Implicit Free Lists
-- Addressed internal and external fragmentation thorugh coalescing
+## Homework 3 - Dynamic Memory Allocator using Segregated Implicit Free Lists
+- Addressed internal and external fragmentation through coalescing
 - Malloc - Returns a block of memory of the desired size
 - Realloc - Reallocates a previously allocated block of memory into the new desired size
 - Free - Frees an allocated block of memory 
@@ -27,7 +27,6 @@ Look in each homework's 'src' folder to see the main code.
 - Current working directory (pwd)
 - Pipeline, redirectional, and their combinations (|, <, >)
 
-## Homework 5 - Server
-- Multi-threaded server
+## Homework 5 - Multi-threaded server
 - Manages workers using an asynchronous queue 
 - Stores keys and values into a thread-safe hash-map
